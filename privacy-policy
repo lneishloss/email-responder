@@ -1,1 +1,221 @@
+## Privacy Policy – AI Email Responder
 
+**Effective Date:** January 29, 2025
+
+Thank you for choosing AI Email Responder ("we," "us," or "our"). This Privacy Policy outlines how we handle and protect your personal information when you use our Google Workspace add-on. By installing or using the Service, you expressly acknowledge that you have read, understood, and agree to be bound by this Privacy Policy in its entirety. If you do not agree with any part of this Privacy Policy, you should immediately cease use of the Service and uninstall the add-on.
+
+---
+
+## 1. Scope and Acceptance
+
+1.1 **Scope**: This Privacy Policy applies to all users of the AI Email Responder (the "Service"), including individuals using the Service through a corporate or organizational Google Workspace account. This Policy governs all forms of data, including personal data and organizational data, that we collect from or about you.
+
+1.2 **Acceptance**: By installing, enabling, or using the Service, you acknowledge that you have read and agree to this Privacy Policy. If you do not agree, you may not use the Service. We encourage you to review this Policy periodically, as it is subject to change (see Section 14 below).
+
+---
+
+## 2. Information We Collect
+
+2.1 **Account Information**
+- **Google Account Email Address**: Used to authenticate your account and personalize your experience.
+- **Basic Google Workspace Profile Information**: Includes display name and profile picture to enhance personalization.
+- **Organization Domain Information**: Used for domain-level settings and administrative controls.
+
+2.2 **Email Data**
+- **Email Content**: We process the content of the emails you choose to open with or route through the Service for the purpose of generating response suggestions.
+- **Email Metadata**: Sender, recipients, timestamps, subject lines, and relevant headers.
+- **Email Attachments**: Accessed only when relevant for generating or refining response suggestions.
+- **Historical Email Communications**: May be used to improve response generation and AI training, subject to applicable privacy and confidentiality requirements.
+- **Email Templates**: Created or used by authorized users.
+
+2.3 **Organizational Data**
+- **Internal Documents and Databases**: Only those that your organization explicitly authorizes us to access.
+- **Communication Patterns and Response Templates**: To provide contextually relevant AI-generated suggestions.
+- **Contact Information and Interaction History**: Helps refine predictive models for email responses.
+
+2.4 **Additional Data**
+- **User Preferences and Settings**: Such as language preferences, notification settings, and feature usage.
+- **Technical Data**: IP addresses, device and browser types, operating system details, and diagnostic data (e.g., crash logs) for system stability.
+- **Cookies and Tracking Technologies**: We may use cookies or similar technologies to optimize user experience within the constraints of Google Workspace.
+
+---
+
+## 3. How We Use Your Information
+
+3.1 **Core Functionality**
+- **User Authentication**: Validating your Google Workspace account credentials to ensure secure access.
+- **Response Generation**: Analyzing email content, metadata, and organizational data to generate relevant response suggestions.
+- **Contextual Suggestions**: Tailoring suggestions based on communication histories and organizational data.
+- **Template Creation and Management**: Allowing users to create, modify, and deploy common response templates.
+- **AI Model Refinement**: Incorporating feedback and usage data to improve response accuracy.
+
+3.2 **Service Improvement**
+- **Usage Analytics**: Studying how users interact with the Service to enhance reliability and user experience.
+- **AI Model Training**: Training or retraining AI models using aggregated, de-identified data unless otherwise specified.
+- **Diagnostics and Bug Fixes**: Resolving technical issues reported by users or identified internally.
+- **Feature Development**: Building new functionality based on user feedback and usage trends.
+
+3.3 **Legal and Compliance**
+- **Regulatory Requirements**: Complying with all applicable laws, regulations, and court orders.
+- **Enforcement**: Investigating potential violations of our terms or this Privacy Policy and enforcing compliance.
+
+---
+
+## 4. Legal Bases for Processing (Where Applicable)
+
+If you are located in a jurisdiction that requires a legal basis for data processing (e.g., the European Economic Area under the GDPR), we rely on the following:
+- **Consent**: You provide explicit consent by using or continuing to use the Service.
+- **Legitimate Interests**: To operate and improve the Service, detect fraud, and maintain security.
+- **Contractual Necessity**: Where processing is necessary to provide the Service under the terms you have agreed to.
+- **Legal Obligations**: Where processing is necessary to comply with laws or regulations.
+
+---
+
+## 5. Data Storage and Security
+
+5.1 **Security Measures**
+
+5.2 **Incident Response**
+In the event of a data breach or security incident, we will promptly notify affected users and relevant authorities as required by applicable law. We maintain internal breach response procedures to mitigate harm and prevent further unauthorized access.
+
+---
+
+## 6. Data Sharing and Third-Party Access
+
+6.1 **Service Providers**
+We may engage trusted third parties (e.g., cloud hosting providers, analytics tools) to assist with the operation of the Service. These providers are bound by confidentiality obligations and are only permitted to process your data for the purposes we specify.
+
+6.2 **Legal Requirements**
+We will disclose personal information if required to do so by law or in response to valid requests by public authorities (e.g., a court or a government agency), or where necessary to protect our rights, your safety, or the safety of others.
+
+6.3 **Consent-Based Sharing**
+In all other cases, we will obtain your explicit consent before sharing your data with third parties.
+
+6.4 **Aggregation and De-identification**
+We may share aggregated or de-identified data that does not reasonably identify you or your organization to third parties for research, analytics, or any other legally permissible purposes.
+
+---
+
+## 7. Data Retention and Disposal
+
+7.1 **Retention Period**
+We retain personal information only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
+
+7.2 **Disposal**
+When data is no longer needed, we take reasonable steps to securely delete, anonymize, or destroy it, in a manner designed to ensure it cannot be reconstructed or read.
+
+7.3 **User-Initiated Deletion**
+You have the right to request deletion of your data at any time, subject to legal obligations. We will use commercially reasonable efforts to comply with your request within a reasonable timeframe.
+
+---
+
+## 8. Your Privacy Rights
+
+8.1 **General Rights**
+Depending on your jurisdiction, you may have rights to:
+- **Access**: Request a copy of the personal data we hold about you.
+- **Rectify**: Ask us to correct or update inaccurate or incomplete information.
+- **Delete**: Request the deletion or removal of your personal data.
+- **Restrict**: Ask us to restrict processing of your personal data.
+- **Object**: Object to the processing of your personal data, including for marketing or profiling.
+- **Portability**: Obtain a transferable copy of certain data in a structured, commonly used format.
+
+8.2 **Exercising Your Rights**
+To submit a request, contact us as described in Section 10. We will respond within the timeframe required by law. Please note that certain rights may be limited or unavailable depending on your specific circumstances.
+
+8.3 **Managing Google Workspace Permissions**
+You can revoke the AI Email Responder’s access to your Google account at any time via your Google Account permissions settings. Revoking access may limit or disable certain functionalities.
+
+---
+
+## 9. Children’s Privacy
+
+The Service is not directed at children under the age of 16 (or the minimum legal age in your jurisdiction). We do not knowingly collect personal data from children. If we become aware that a child’s personal data has been collected, we will delete it in accordance with applicable laws.
+
+---
+
+## 10. Contact Us
+
+If you have any questions, complaints, or concerns about this Privacy Policy or our data practices, please contact us at:
+
+- **Email**: lneishloss@gmail.com
+- **Subject Line**: “Privacy Inquiry” or “Data Protection Request”
+
+We will make every effort to address your inquiries in a timely manner.
+
+---
+
+## 11. Disclaimers and Limitations of Liability
+
+11.1 **No Warranties**
+The Service is provided on an “AS IS” and “AS AVAILABLE” basis without warranties of any kind, whether express or implied. We specifically disclaim any and all warranties of merchantability, fitness for a particular purpose, non-infringement, and any warranties arising out of course of dealing or usage of trade.
+
+11.2 **Limitation of Liability**
+To the fullest extent permitted by applicable law, in no event shall we be liable for any indirect, incidental, special, consequential, or punitive damages, including damages for loss of profits, goodwill, data, or other intangible losses, resulting from: (a) your access to or use of or inability to access or use the Service; (b) any conduct or content of any third party on or via the Service; or (c) unauthorized access, use, or alteration of your transmissions or content.
+
+11.3 **Assumption of Risk**
+You assume full responsibility for your use of the Service. You agree that your reliance on any AI-generated suggestions is solely at your own risk, and you acknowledge that AI recommendations may not always be accurate, complete, or up to date.
+
+---
+
+## 12. Indemnification
+
+You agree to defend, indemnify, and hold harmless AI Email Responder, its affiliates, employees, agents, and service providers from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys’ fees) arising out of or in connection with your use of the Service, your violation of this Privacy Policy, or your violation of any rights of another.
+
+---
+
+## 13. Compliance with Google API Services
+
+13.1 **Limited Use**
+Our use and transfer of information received from Google APIs to any other application will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements. We only request permissions necessary for the add-on’s core functionality.
+
+---
+
+## 14. Updates to This Policy
+
+14.1 **Right to Modify**
+We reserve the right to modify or update this Privacy Policy at any time. Material changes will be communicated through Service notifications, email, or other appropriate channels.
+
+14.2 **Effective Date of Updates**
+The "Effective Date" at the top of this Policy indicates when the current version became operative. Your continued use of the Service after the Effective Date signifies your acceptance of the updated Policy.
+
+---
+
+## 15. Legal and Regulatory Compliance
+
+15.1 **General Data Protection Regulation (GDPR)**
+If you are located in the European Economic Area (EEA) or the United Kingdom, we process your personal data in compliance with the GDPR. You retain all rights provided under the GDPR, including the right to lodge a complaint with a supervisory authority.
+
+15.2 **California Consumer Privacy Act (CCPA)**
+If you are a California resident, you may have additional rights under the CCPA, including the right to opt out of the sale of your personal information (although we do not sell personal information), and the right to non-discrimination for exercising your rights.
+
+15.3 **Other Jurisdictions**
+We also strive to comply with other applicable privacy and data protection laws. Please reach out to us if you have questions about our compliance in your jurisdiction.
+
+---
+
+## 16. Governing Law and Dispute Resolution
+
+16.1 **Governing Law**
+This Privacy Policy and any related disputes shall be governed by and construed in accordance with the laws of the jurisdiction in which our principal place of business is located, without regard to conflict of law principles.
+
+16.2 **Dispute Resolution**
+You agree to first attempt to resolve any disputes informally by contacting us. If a dispute cannot be resolved informally, it shall be resolved by binding arbitration or small claims court as permitted by applicable law. Any cause of action arising out of or related to the use of the Service must commence within one year after the cause of action accrues.
+
+---
+
+## 17. Consent
+
+By installing and using AI Email Responder, you affirm that you have read, understood, and agree to the terms of this Privacy Policy. If you do not agree, you must discontinue use of the Service. You may withdraw consent at any time by uninstalling the add-on and requesting deletion of your data.
+
+---
+
+## 18. Entire Agreement
+
+This Privacy Policy constitutes the entire and exclusive agreement between you and AI Email Responder with respect to your personal information. It supersedes and replaces any prior or contemporaneous understandings and agreements regarding this subject matter.
+
+---
+
+**Last Updated:** January 29, 2025
+
+© 2025 AI Email Responder. All rights reserved.
